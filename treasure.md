@@ -206,3 +206,4 @@ You have documented a newly found artifact, but some details were incorrect. You
 ---
 
 These exercises will provide you with practical experience using GitHub and help you develop a solid understanding of fundamental GitHub commands and workflows.
+precious from team charlie made a change to the guide
