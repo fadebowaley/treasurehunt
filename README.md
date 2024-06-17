@@ -1,28 +1,39 @@
-# # Treasure Hunt
+# Ayomide's Portfolio
 
-Welcome to the Treasure Hunt repository! This project is a collaborative effort to decipher the clues and find the hidden treasures scattered across the ancient lands. Join us on this exciting adventure as we explore mysterious maps, decode ancient runes, and document our discoveries.
+## Introduction
+   - My name is Aderotoye Ayomide, a 300 level Computer Science Student, a junior developer with 2-3 years of experience in HTML, CSS, JavaScript, ReactJS.
 
-## Project Overview
 
-### The Story
-Long ago, a legendary pirate named Captain Blackbeard buried his treasure in secret locations around the world. Recently, an old map was discovered in a dusty attic, revealing clues to the hidden treasures. Our goal is to work together to follow these clues, decode the runes, and uncover the treasures.
+ This portfolio showcases my recent projects, and how skilled i am in web development.
 
-### Objectives
-- **Map Analysis**: Study the ancient map to identify potential locations of the hidden treasures.
-- **Rune Decoding**: Decode the ancient runes that provide hints about the treasure locations.
-- **Documentation**: Keep a detailed record of our findings and progress.
 
-## Getting Started
+## Projects
+   -Javascript quote generator
+   -React based Landing page
 
-### Prerequisites
-To participate in this treasure hunt, you'll need:
-- A GitHub account
-- Git installed on your computer
+## Skills
+   - HTML, CSS, Javascript, Bootstrap, ReactJS.
 
-### How to Participate
+## Education
+   - SSCE
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/fadebowaley/treasurehunt.git
-   cd treasurehunt
-Aderotoye Ayomide
+## Experience
+   - Currently on SIWES industrial training
+
+## Certifications
+   - Certificate of completion: Introduction to frontend development
+   -Certificate of completion: Introduction to reactjs
+   
+
+## Contact Information
+   - linked/ayomide-2910
+
+## Portfolio Link
+   - Include a link to your online portfolio (if available).
+
+## Additional Information
+   - Mention any other relevant information not covered above.
+
+---
+
+
