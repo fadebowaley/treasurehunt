@@ -25,3 +25,4 @@ To participate in this treasure hunt, you'll need:
    ```bash
    git clone https://github.com/fadebowaley/treasurehunt.git
    cd treasurehunt
+Aderotoye Ayomide
