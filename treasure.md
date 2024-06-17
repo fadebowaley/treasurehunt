@@ -82,7 +82,8 @@ You and your friends have discovered ancient runes and need to decode them toget
    ```bash
    git checkout -b decode-runes
    ```
-5. Make changes to the guide (edit files as needed).
+5. Changes made and commited
+decode-runes branch
 6. Stage the changes:
    ```bash
    git add <modified-files>
