@@ -62,7 +62,7 @@ You and your friends have discovered ancient runes and need to decode them toget
 ### Challenge:
 1. Fork the treasure hunt repository.
 2. Create a new branch for your contributions.
-3. Make changes to the decoding guide.
+3. This is team-beta.
 4. Commit your changes.
 5. Push the branch to GitHub.
 6. Create a pull request for review.
@@ -82,7 +82,7 @@ You and your friends have discovered ancient runes and need to decode them toget
    ```bash
    git checkout -b decode-runes
    ```
-5. Make changes to the guide (edit files as needed).
+5. Changes made to the guide by Daniel
 6. Stage the changes:
    ```bash
    git add <modified-files>
