@@ -4,55 +4,7 @@
 
 Welcome to the GitHub Treasure Hunt exercise! You will be working in teams to complete a series of tasks using GitHub. Each team will submit their exercise on a separate branch. The teams are:
 
-- Team Alpha
-- Team Beta
-- Team Charlie
 - Team Delta
-
-Each team should create a branch named after their team (e.g., `team-alpha`, `team-beta`, etc.) and submit their changes on that branch.
-
-## Project 1: Initializing a Repository for a Treasure Hunt
-
-### Scenario:
-You have discovered a mysterious old map that leads to hidden treasures. To keep your findings organized and share them with your fellow adventurers, you need to create a GitHub repository.
-
-### Challenge:
-1. Clone the treasure hunt repository.
-2. Create a README file with a brief description of the treasure hunt.
-3. Commit the README file.
-4. Push the changes to GitHub on your team's branch.
-
-### Hint:
-```
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/fadebowaley/treasurehunt.git
-   ```
-2. Navigate to the repository directory:
-   ```bash
-   cd treasurehunt
-   ```
-3. Create a branch named after your team (replace `<team-name>` with your team's name, e.g., `team-alpha`):
-   ```bash
-   git checkout -b <team-name>
-   ```
-4. Create a README file:
-   ```bash
-   echo "# Treasure Hunt" > README.md
-   ```
-5. Add the README file to staging:
-   ```bash
-   git add README.md
-   ```
-6. Commit the file:
-   ```bash
-   git commit -m "Initial commit with README"
-   ```
-7. Push the changes to GitHub on your team's branch:
-   ```bash
-   git push origin <team-name>
-   ```
-```
 
 ## Project 2: Collaborating on a Secret Code
 
@@ -72,7 +24,7 @@ You and your friends have discovered ancient runes and need to decode them toget
 1. Fork the repository by clicking on the "Fork" button on GitHub.
 2. Clone the forked repository (replace `<your-username>` with your GitHub username):
    ```bash
-   git clone https://github.com/<your-username>/treasurehunt.git
+   git clone https://github.com/olakunde-samuel2020/treasurehunt.git
    ```
 3. Navigate to the repository directory:
    ```bash
@@ -80,7 +32,7 @@ You and your friends have discovered ancient runes and need to decode them toget
    ```
 4. Create a new branch:
    ```bash
-   git checkout -b decode-runes
+   git checkout -b team-delta
    ```
 5. Make changes to the guide (edit files as needed).
 6. Stage the changes:
